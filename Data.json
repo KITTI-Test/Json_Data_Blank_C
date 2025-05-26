@@ -1,0 +1,12 @@
+[
+    {
+        "sentence": "The _____ jumped over the _____ moon.",
+        "blanks": ["quick", "lazy"],
+        "options": ["quick", "lazy", "brown", "fox"]
+    },
+    {
+        "sentence": "_____ is better than _____.",
+        "blanks": ["Nothing", "something"],
+        "options": ["Nothing", "something", "Everything", "anything"]
+    }
+]
