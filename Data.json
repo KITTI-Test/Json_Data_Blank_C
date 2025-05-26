@@ -1,12 +1,12 @@
 [
     {
-        "sentence": "The _____ jumped over the _____ moon.",
-        "blanks": ["quick", "lazy"],
-        "options": ["quick", "lazy", "brown", "fox"]
+        "sentence": "_____she_____ Tennis YesterDay.",
+        "blanks": ["Did", "play"],
+        "options": ["Did", "Does", "play", "played"]
     },
     {
-        "sentence": "_____ is better than _____.",
-        "blanks": ["Nothing", "something"],
-        "options": ["Nothing", "something", "Everything", "anything"]
+        "sentence": "Yes she _____.",
+        "blanks": ["did"],
+        "options": ["is", "do", "does", "did"]
     }
 ]
