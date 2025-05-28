@@ -1,12 +1,8 @@
 [
     {
-        "sentence": "_____she_____ Tennis YesterDay.",
-        "blanks": ["Did", "play"],
-        "options": ["Did", "Does", "play", "played"]
-    },
-    {
-        "sentence": "Yes she _____.",
-        "blanks": ["did"],
-        "options": ["is", "do", "does", "did"]
+        "sentence": "_____she_____ Tennis YesterDay.
+                     Yes she _____",
+        "blanks": ["Did", "play","did"],
+        "options": ["Did", "did", "play", "played"]
     }
 ]
