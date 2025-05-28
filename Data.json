@@ -1,7 +1,7 @@
 [
     {
-        "sentence": "_____she_____ Tennis YesterDay.",
-        "blanks": ["Did", "play"],
-        "options": ["Did", "Does", "play", "played"]
+        "sentence": "_____she_____ Tennis YesterDay. Yes,she_____ ",
+        "blanks": ["Did", "play","did"],
+        "options": ["Did", "did", "play", "played"]
     }
 ]
